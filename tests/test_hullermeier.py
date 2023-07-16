@@ -2,8 +2,8 @@ import numpy as np
 from random import SystemRandom
 from src.hullermeier import hullermeier
 
-def test_comparacao_com_outra_implementacao():
 
+def test_comparacao_com_outra_implementacao():
     sr = SystemRandom()
 
     U = np.array([[1.0, 0, 0], [0, 1.0, 1.0]])

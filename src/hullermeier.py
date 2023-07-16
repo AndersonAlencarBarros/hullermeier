@@ -22,4 +22,3 @@ def hullermeier(U: np.ndarray, V: np.ndarray):
 
     assert resultado >= 0, "Indice de Hullermeier menor do que zero."
     return resultado
- 
