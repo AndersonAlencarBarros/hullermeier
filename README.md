@@ -1,2 +1,1 @@
-# hullermeier
-Hullermeier Index
+# Hullermeier Index for fuzzy partitions
