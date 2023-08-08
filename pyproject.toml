@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hullermeier"
-version = "0.1.1"
+version = "0.1.2"
 description = "Hullermeier index for fuzzy partitions"
 authors = ["Anderson Alencar <alencarbarros@protonmail.com>"]
 readme = "README.md"
